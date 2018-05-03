@@ -26,7 +26,7 @@
   "dependencies": {
     "async": "^0.9.0",
     "bip38": "^1.3.0",
-    "bitcore-lib-cash": "ssh://git@github.com:bitpay/bitcore-lib.git#cash",
+    "bitcore-lib-cash": "=0.18.0",
     "bower": "^1.8.4",
     "ducatuscore-lib": "ssh://git@github.com/Ducatus/ducatuscore-lib.git",
     "ducatuscore-mnemonic": "ssh://git@github.com/Ducatus/ducatuscore-mnemonic.git",

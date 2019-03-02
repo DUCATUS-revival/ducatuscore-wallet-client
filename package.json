@@ -2,7 +2,7 @@
   "name": "ducatuscore-wallet-client",
   "description": "Client for ducatuscore-wallet-service",
   "author": "BitPay Inc",
-  "version": "6.2.0",
+  "version": "6.2.0.debug",
   "license": "MIT",
   "keywords": [
     "ducatuscoin",
